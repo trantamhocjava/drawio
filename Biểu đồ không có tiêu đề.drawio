@@ -196,6 +196,9 @@
         <mxCell id="27bfXGkoPphmPW1L8UxB-1" value="chú ý bản quyền của bộ dữ liệu , đảm bảo phải là public&amp;nbsp;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="18" y="4463" width="750" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Yu4De4g1c2Ssak99vBwX-1" value="Hello cac ban nhen" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry y="4601" width="750" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
