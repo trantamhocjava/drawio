@@ -752,7 +752,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="DEXedgiOxubpp9CchEQK-10" value="dailyRate" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="431" y="1625" width="89" height="30" as="geometry" />
+          <mxGeometry x="434" y="1625" width="89" height="30" as="geometry" />
         </mxCell>
         <mxCell id="DEXedgiOxubpp9CchEQK-11" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" target="DEXedgiOxubpp9CchEQK-10" parent="1" source="yPCyXbs08CVm_2dmwCtI-27">
           <mxGeometry relative="1" as="geometry">
@@ -1232,13 +1232,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="h76FoRVgg2I3XmlvMxd5-108" value="Sub Topic" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="1">
+        <mxCell id="h76FoRVgg2I3XmlvMxd5-108" value="Sub Topic" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="404" y="4887" width="91" height="30" as="geometry" />
         </mxCell>
         <mxCell id="h76FoRVgg2I3XmlvMxd5-109" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" edge="1" target="h76FoRVgg2I3XmlvMxd5-108" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="396" y="1570" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="h76FoRVgg2I3XmlvMxd5-110" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.161;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DEXedgiOxubpp9CchEQK-10" target="DEXedgiOxubpp9CchEQK-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
